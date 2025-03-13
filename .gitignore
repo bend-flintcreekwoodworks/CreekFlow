@@ -1,0 +1,12 @@
+# Ignore Angular build files
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Ignore FastAPI environment files
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# General ignores
+.idea/
