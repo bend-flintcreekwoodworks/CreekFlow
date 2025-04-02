@@ -1,0 +1,33 @@
+# === Python backend ===
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.env.*
+
+# === Node/Angular frontend ===
+node_modules/
+dist/
+.angular/
+.env
+
+# === General ===
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.bak
+*.tmp
+
+# === OS-specific ===
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+Desktop.ini
